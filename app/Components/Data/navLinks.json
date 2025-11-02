@@ -1,0 +1,52 @@
+[
+    {
+        "label": "Home",
+        "href": "/home"
+    },
+    {
+        "label": "About Us",
+        "href": "/about-us"
+    },
+    {
+        "label": "Services",
+        "href": "/services",
+        "dropdown": [
+            {
+                "label": "Broadcasting",
+                "href": "/broadcasting"
+            },
+            {
+                "label": "IT Equipment & Services",
+                "href": "/it-equipment-and-services"
+            },
+            {
+                "label": "Education", 
+                "href": "/education"
+            },
+            {
+                "label": "Live Streaming",
+                "href": "/livestream"
+            },
+            {
+                "label": "Video On Demand",
+                "href": "/videoondemand"
+            },
+            {
+                "label": "Post Production",
+                "href": "/postproduction"
+            },
+            {
+                "label": "Archival",
+                "href": "/archival"
+            },
+            {
+                "label": "Migration",
+                "href": "/migration"
+            }
+        ]
+    },
+    {
+        "label": "Contact",
+        "href": "/contact-us"
+    }
+]
